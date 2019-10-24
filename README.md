@@ -4,3 +4,5 @@
   Furkan Alp Tokaç 1711012011
 
   Görkem Göktuğ Gür 1711012070
+
+  S.connect kısmına makinenin ip'si yazılacak server ve clientten düzenlenecek.
