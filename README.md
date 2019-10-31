@@ -1,8 +1,6 @@
 # Data-Communication
   Veri İletişimi Ödevi
 
-  Furkan Alp Tokaç 1711012011
-
-  Görkem Göktuğ Gür 1711012070
-
+  Ömer Şahin 1711012058
+  MustaFA Kağan Duran 1711012010
   S.connect kısmına makinenin ip'si yazılacak server ve clientten düzenlenecek.
